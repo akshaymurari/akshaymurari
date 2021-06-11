@@ -9,6 +9,7 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymurari" alt="akshaymurari" /></a> </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,8 +43,6 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymurari" alt="akshaymurari" /></a> </p>
 
 <a href="https://github.com/akshaymurari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaymurari&theme=buefy&show_icons=true" />
