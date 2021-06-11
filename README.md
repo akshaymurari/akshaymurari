@@ -60,7 +60,7 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdragoneel&" alt="deepeshdragoneel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymurari&" alt="akshaymurari" /></p>
 
 <!--TODO -->
 <!-- will add my webside blow here -->
