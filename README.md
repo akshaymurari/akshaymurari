@@ -42,6 +42,8 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
 
 <br/>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymurari" alt="akshaymurari" /></a> </p>
+
 <a href="https://github.com/akshaymurari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaymurari&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymurari&theme=buefy&layout=compact" />
