@@ -4,7 +4,6 @@
 
 I'm a self-taught fullstack web developer who is passionate about writing code, solving problems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymurari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymurari" /> </p>
 
 <h3>  💻 &nbsp; More About Me </h3>
 
