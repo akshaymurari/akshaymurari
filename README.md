@@ -27,8 +27,9 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
   ![Node.js](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node)
   ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
   ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
-   ![qraphql](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql)
-   ![jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
+  ![qraphql](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql)
+  ![jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
+  ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
