@@ -30,6 +30,7 @@ I'm a self-taught fullstack web developer who is passionate about writing code, 
   ![qraphql](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql)
   ![jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
   ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+  ![nginx](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
